@@ -1,3 +1,8 @@
+# Archived repository 
+
+## More information on continued development can be found at https://osf.io/xdkcy/wiki/home/ 
+
+--- 
 # clowder-nginx
 Nginx container for The University of Arizona drone pipeline instance on CyVerse at http://dronepipeline.cyverse.org
 
